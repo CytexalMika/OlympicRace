@@ -1,0 +1,8 @@
+name: Wither
+main: com.cytexal.Dragons.main
+version: 2.0
+description: Wither
+
+commands:
+      dragons:
+        usage:

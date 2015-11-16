@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/chrisschross129/Desktop/Java/particleeffect-1.7.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrisschross129/Desktop/MeinePlugins/TitleAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrisschross129/Desktop/Java/craftbukkit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
